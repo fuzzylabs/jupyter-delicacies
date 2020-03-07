@@ -1,0 +1,9 @@
+# Emacs
+*~
+
+# Python
+*.pyc
+env
+
+# Jupyter
+*.ipynb_checkpoints
