@@ -1,0 +1,4 @@
+tesserocr 
+matplotlib 
+opencv-python 
+google-cloud-vision

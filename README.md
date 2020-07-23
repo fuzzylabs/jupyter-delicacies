@@ -6,6 +6,8 @@ The notebooks are mainly in Python but other programming languages are used as w
 
 # Contents
 
+`ocr` -- a notebook that compares different modes of Tesseract OCR and Google Vision API models for text detection and recognition
+
 # Running
 
 ## Prerequisites
