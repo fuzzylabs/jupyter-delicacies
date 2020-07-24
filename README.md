@@ -10,7 +10,7 @@ The notebooks are mainly in Python but other programming languages may be used a
 
 | Link                    | Description                                                                                                |   |
 |-------------------------|------------------------------------------------------------------------------------------------------------|---|
-| [OCR](vision/ocr.ipynb)   | Comparing different modes of Tesseract OCR and Google Vision API models for text detection and recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fuzzylabs/computational-delicacies-jupyter/blob/colab/vision/ocr.ipynb) |
+| [OCR](vision/ocr.ipynb)   | Comparing different modes of Tesseract OCR and Google Vision API models for text detection and recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fuzzylabs/jupyter-delicacies/blob/colab/vision/ocr.ipynb) |
 
 # Running
 
