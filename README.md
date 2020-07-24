@@ -1,12 +1,16 @@
 # Introduction
 
-[Jupyter](https://jupyter.org) notebooks are a way of sharing executable experiments. They're widely used as standard in data science and machine learning, as well as being used more broadly for education, documentation and experimentation. This is a collection of notebooks on assorted topics of interest including artificial intelligence, computer science and mathematics.
+[Jupyter](https://jupyter.org) notebooks are a way of sharing executable experiments. They're widely used as standard in data science and machine learning, as well as being used more broadly for education, documentation and experimentation. This is a collection of notebooks on assorted topics in artificial intelligence, computer science and mathematics.
 
-The notebooks are mainly in Python but other programming languages are used as well.
+The notebooks are mainly in Python but other programming languages may be used as well.
 
 # Contents
 
-`ocr` -- a notebook that compares different modes of Tesseract OCR and Google Vision API models for text detection and recognition
+## Computer Vision
+
+| Link                    | Description                                                                                                |   |
+|-------------------------|------------------------------------------------------------------------------------------------------------|---|
+| [OCR](vision/ocr.ipynb)   | Comparing different modes of Tesseract OCR and Google Vision API models for text detection and recognition | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](vision/ocr.ipynb) |
 
 # Running
 
