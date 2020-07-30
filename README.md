@@ -45,10 +45,8 @@ If you've already set up Virtualenv and installed dependencies then you can reac
 
 Instead of using Jupyter in the browser you can embed it directly into everybody's favourite text editor. There are a couple of approaches to doing this, but we'll stick with the [Emacs Ipython Notebook](http://millejoh.github.io/emacs-ipython-notebook) extension. After following the installation instructions on the website you'll be ready to either:
 
-* Run a Jupyter process within Emacs with `M-x run`
-* Connect to an existing Jupyter process with `M-x login`
-
-The latter is potentially a safer option.
+* Run a Jupyter process within Emacs with `M-x ein:run`
+* Connect to an existing Jupyter process with `M-x ein:login`
 
 # Other interesting notebook collections
 
